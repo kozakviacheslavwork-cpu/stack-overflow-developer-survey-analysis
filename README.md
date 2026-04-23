@@ -1,4 +1,4 @@
-# stack-overflow-developer-survey-analysis
+# Stack_Overflow_Analysis_Project
 # Аналіз результатів опитування Stack Overflow (Python)
 
 ## Про проєкт
